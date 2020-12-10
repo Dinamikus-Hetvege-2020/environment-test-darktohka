@@ -3,7 +3,7 @@
 int main()
 {
   int n, m;
-  cin >> n >> m;
-  cout << (n + m);
+  std::cin >> n >> m;
+  std::cout << (n + m);
   return 0;
 }
