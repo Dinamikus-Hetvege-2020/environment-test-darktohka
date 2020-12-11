@@ -2,6 +2,9 @@
 
 int main()
 {
-  // TO DO - solve the problem
+  int n, m;
+  std::cin >> n >> m;
+  std::cout << (n + m);
+  
   return 0;
 }
